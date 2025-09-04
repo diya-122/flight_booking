@@ -4,6 +4,7 @@ A simple *Flight Booking System* built using *Python (Tkinter)*.
 This demonstrates GUI-based management of flights, passengers, and bookings with search and cancellation features.
 
 Features:
+
 *Flight Management*
 - View all flights with details (ID, departure, arrival, date, time, available seats).
 - Search flights by **Flight ID**.
